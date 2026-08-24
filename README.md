@@ -1,11 +1,11 @@
 # EX---4-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
-# NAME : DHARSHINI S N
-# REG.NO : 212224230062
+# NAME : anuvarshini
+# REG.NO : 212223060018
 
 ## AIM:
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a single host machine
 
-### EQUIPMENTS REQUIRED:
+### EQUIPMENTS REQUIRED: 
     • Hardware: PCs
     • Software: Oracle VM ware  , CENT OS 
     • A system with Oracle VM VirtualBox installed.  At least 4 GB RAM and 20 GB free disk space.
