@@ -11,7 +11,7 @@ To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a 
 ●  Kali Linux ISO image, which can be downloaded from the official website.
 
 ## Procedure:
-# Step 1: Download VirtualBox
+# Step 1: Download VirtualBox 
 
  Go to the VirtualBox official website: VirtualBox Downloads  Choose the appropriate version for your operating system:
  
